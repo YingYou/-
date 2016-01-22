@@ -1,0 +1,183 @@
+com.admob.android.ads.AdManager$Gender: com.admob.android.ads.AdManager$Gender[] values()
+com.admob.android.ads.AdManager$Gender: com.admob.android.ads.AdManager$Gender valueOf(java.lang.String)
+com.admob.android.ads.AdView
+com.admob.android.ads.AdView: AdView(android.app.Activity)
+com.admob.android.ads.AdView: AdView(android.content.Context,android.util.AttributeSet)
+com.admob.android.ads.AdView: AdView(android.content.Context,android.util.AttributeSet,int)
+com.admob.android.ads.AdView: int getRequestInterval()
+com.admob.android.ads.AdView: void setRequestInterval(int)
+com.admob.android.ads.AdView: void setTextColor(int)
+com.admob.android.ads.AdView: int getTextColor()
+com.admob.android.ads.AdView: int getPrimaryTextColor()
+com.admob.android.ads.AdView: void setPrimaryTextColor(int)
+com.admob.android.ads.AdView: int getSecondaryTextColor()
+com.admob.android.ads.AdView: void setSecondaryTextColor(int)
+com.admob.android.ads.AdView: void setBackgroundColor(int)
+com.admob.android.ads.AdView: int getBackgroundColor()
+com.admob.android.ads.AdView: java.lang.String getKeywords()
+com.admob.android.ads.AdView: void setKeywords(java.lang.String)
+com.admob.android.ads.AdView: java.lang.String getSearchQuery()
+com.admob.android.ads.AdView: void setSearchQuery(java.lang.String)
+com.admob.android.ads.AdView: void setGoneWithoutAd(boolean)
+com.admob.android.ads.AdView: void setVisibility(int)
+com.admob.android.ads.AdView: void setEnabled(boolean)
+com.admob.android.ads.AdView: void setAdListener(com.admob.android.ads.AdListener)
+com.admob.android.ads.AdView: com.admob.android.ads.AdListener getAdListener()
+com.admob.android.ads.d$f: com.admob.android.ads.d$f[] values()
+com.admob.android.ads.d$f: com.admob.android.ads.d$f valueOf(java.lang.String)
+org.void1898.www.agilebuddy.AgileBuddyActivity
+org.void1898.www.agilebuddy.AgileBuddyActivity: AgileBuddyActivity()
+org.void1898.www.agilebuddy.AgileBuddyView
+org.void1898.www.agilebuddy.AgileBuddyView: AgileBuddyView(android.content.Context,android.util.AttributeSet)
+org.void1898.www.agilebuddy.GlobalRankingActivity
+org.void1898.www.agilebuddy.GlobalRankingActivity: GlobalRankingActivity()
+org.void1898.www.agilebuddy.Prefs
+org.void1898.www.agilebuddy.Prefs: Prefs()
+org.void1898.www.agilebuddy.Prefs: void onClick(android.view.View)
+org.void1898.www.agilebuddy.R$attr: int backgroundColor
+org.void1898.www.agilebuddy.R$attr: int keywords
+org.void1898.www.agilebuddy.R$attr: int primaryTextColor
+org.void1898.www.agilebuddy.R$attr: int refreshInterval
+org.void1898.www.agilebuddy.R$attr: int secondaryTextColor
+org.void1898.www.agilebuddy.R$attr: int testing
+org.void1898.www.agilebuddy.R$drawable: int bg_game
+org.void1898.www.agilebuddy.R$drawable: int bg_options
+org.void1898.www.agilebuddy.R$drawable: int bg_ranking
+org.void1898.www.agilebuddy.R$drawable: int bg_tips
+org.void1898.www.agilebuddy.R$drawable: int button_bg
+org.void1898.www.agilebuddy.R$drawable: int button_bg_down
+org.void1898.www.agilebuddy.R$drawable: int food_1
+org.void1898.www.agilebuddy.R$drawable: int food_2
+org.void1898.www.agilebuddy.R$drawable: int food_3
+org.void1898.www.agilebuddy.R$drawable: int food_4
+org.void1898.www.agilebuddy.R$drawable: int food_5
+org.void1898.www.agilebuddy.R$drawable: int food_6
+org.void1898.www.agilebuddy.R$drawable: int food_7
+org.void1898.www.agilebuddy.R$drawable: int food_8
+org.void1898.www.agilebuddy.R$drawable: int footboard_moving_left1
+org.void1898.www.agilebuddy.R$drawable: int footboard_moving_left2
+org.void1898.www.agilebuddy.R$drawable: int footboard_moving_right1
+org.void1898.www.agilebuddy.R$drawable: int footboard_moving_right2
+org.void1898.www.agilebuddy.R$drawable: int footboard_normal
+org.void1898.www.agilebuddy.R$drawable: int footboard_spiked
+org.void1898.www.agilebuddy.R$drawable: int footboard_spring
+org.void1898.www.agilebuddy.R$drawable: int footboard_unstable1
+org.void1898.www.agilebuddy.R$drawable: int footboard_unstable2
+org.void1898.www.agilebuddy.R$drawable: int game_logo
+org.void1898.www.agilebuddy.R$drawable: int hp_bar_remain
+org.void1898.www.agilebuddy.R$drawable: int hp_bar_total
+org.void1898.www.agilebuddy.R$drawable: int icon
+org.void1898.www.agilebuddy.R$drawable: int menu_button
+org.void1898.www.agilebuddy.R$drawable: int role_deadman
+org.void1898.www.agilebuddy.R$drawable: int role_freefall1
+org.void1898.www.agilebuddy.R$drawable: int role_freefall2
+org.void1898.www.agilebuddy.R$drawable: int role_freefall3
+org.void1898.www.agilebuddy.R$drawable: int role_freefall4
+org.void1898.www.agilebuddy.R$drawable: int role_moving_left1
+org.void1898.www.agilebuddy.R$drawable: int role_moving_left2
+org.void1898.www.agilebuddy.R$drawable: int role_moving_left3
+org.void1898.www.agilebuddy.R$drawable: int role_moving_left4
+org.void1898.www.agilebuddy.R$drawable: int role_moving_right1
+org.void1898.www.agilebuddy.R$drawable: int role_moving_right2
+org.void1898.www.agilebuddy.R$drawable: int role_moving_right3
+org.void1898.www.agilebuddy.R$drawable: int role_moving_right4
+org.void1898.www.agilebuddy.R$drawable: int role_standing
+org.void1898.www.agilebuddy.R$drawable: int tip_awesome
+org.void1898.www.agilebuddy.R$drawable: int tip_new_record
+org.void1898.www.agilebuddy.R$drawable: int tip_not_bad
+org.void1898.www.agilebuddy.R$drawable: int tip_pool_guy
+org.void1898.www.agilebuddy.R$drawable: int top_bar
+org.void1898.www.agilebuddy.R$id: int adbar1
+org.void1898.www.agilebuddy.R$id: int adbar2
+org.void1898.www.agilebuddy.R$id: int adbar3
+org.void1898.www.agilebuddy.R$id: int agile_buddy
+org.void1898.www.agilebuddy.R$id: int exit
+org.void1898.www.agilebuddy.R$id: int goback
+org.void1898.www.agilebuddy.R$id: int more_app
+org.void1898.www.agilebuddy.R$id: int namefield
+org.void1898.www.agilebuddy.R$id: int options
+org.void1898.www.agilebuddy.R$id: int options_best_record_textview
+org.void1898.www.agilebuddy.R$id: int options_buttom_tablerow
+org.void1898.www.agilebuddy.R$id: int options_okay_button
+org.void1898.www.agilebuddy.R$id: int options_power_controller_title
+org.void1898.www.agilebuddy.R$id: int options_showtips_checkbox
+org.void1898.www.agilebuddy.R$id: int options_sounds_checkbox
+org.void1898.www.agilebuddy.R$id: int options_tips_button
+org.void1898.www.agilebuddy.R$id: int options_upload_score_button
+org.void1898.www.agilebuddy.R$id: int options_username_edittext
+org.void1898.www.agilebuddy.R$id: int options_vibrate_checkbox
+org.void1898.www.agilebuddy.R$id: int options_your_name_title
+org.void1898.www.agilebuddy.R$id: int post_scores
+org.void1898.www.agilebuddy.R$id: int ranking_table
+org.void1898.www.agilebuddy.R$id: int retry
+org.void1898.www.agilebuddy.R$id: int score_board
+org.void1898.www.agilebuddy.R$id: int scrollview
+org.void1898.www.agilebuddy.R$id: int scrollview2
+org.void1898.www.agilebuddy.R$id: int scrollview3
+org.void1898.www.agilebuddy.R$id: int start_game
+org.void1898.www.agilebuddy.R$id: int tips_text
+org.void1898.www.agilebuddy.R$id: int touch_to_start
+org.void1898.www.agilebuddy.R$id: int velocityController
+org.void1898.www.agilebuddy.R$layout: int main
+org.void1898.www.agilebuddy.R$layout: int options
+org.void1898.www.agilebuddy.R$layout: int ranking
+org.void1898.www.agilebuddy.R$layout: int score_post_panel
+org.void1898.www.agilebuddy.R$layout: int splash
+org.void1898.www.agilebuddy.R$layout: int tips
+org.void1898.www.agilebuddy.R$raw: int moving
+org.void1898.www.agilebuddy.R$raw: int normal
+org.void1898.www.agilebuddy.R$raw: int spiked
+org.void1898.www.agilebuddy.R$raw: int spring
+org.void1898.www.agilebuddy.R$raw: int tools
+org.void1898.www.agilebuddy.R$raw: int unstable
+org.void1898.www.agilebuddy.R$string: int app_name
+org.void1898.www.agilebuddy.R$string: int exit
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_negative_button
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_positive_button
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_post_score_button
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_text_awesome
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_text_newrecord
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_text_notbad
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_text_poolguy
+org.void1898.www.agilebuddy.R$string: int gameover_dialog_tip
+org.void1898.www.agilebuddy.R$string: int gameover_username_required
+org.void1898.www.agilebuddy.R$string: int global_ranking
+org.void1898.www.agilebuddy.R$string: int more_app
+org.void1898.www.agilebuddy.R$string: int options
+org.void1898.www.agilebuddy.R$string: int options_best_record_summary
+org.void1898.www.agilebuddy.R$string: int options_okay_summary
+org.void1898.www.agilebuddy.R$string: int options_showtips_summary
+org.void1898.www.agilebuddy.R$string: int options_sounds_summary
+org.void1898.www.agilebuddy.R$string: int options_tips_summary
+org.void1898.www.agilebuddy.R$string: int options_toast_upload_failure
+org.void1898.www.agilebuddy.R$string: int options_toast_upload_success
+org.void1898.www.agilebuddy.R$string: int options_toast_username_null
+org.void1898.www.agilebuddy.R$string: int options_toast_username_too_long
+org.void1898.www.agilebuddy.R$string: int options_upload_score_summary
+org.void1898.www.agilebuddy.R$string: int options_user_name_summary
+org.void1898.www.agilebuddy.R$string: int options_velocity_controller_summary
+org.void1898.www.agilebuddy.R$string: int options_vibrate_summary
+org.void1898.www.agilebuddy.R$string: int ranking_title_date
+org.void1898.www.agilebuddy.R$string: int ranking_title_loading_info
+org.void1898.www.agilebuddy.R$string: int ranking_title_name
+org.void1898.www.agilebuddy.R$string: int ranking_title_no
+org.void1898.www.agilebuddy.R$string: int ranking_title_score
+org.void1898.www.agilebuddy.R$string: int score_board
+org.void1898.www.agilebuddy.R$string: int start_game
+org.void1898.www.agilebuddy.R$string: int tips_text
+org.void1898.www.agilebuddy.R$string: int touch_to_start
+org.void1898.www.agilebuddy.R$styleable: int[] com_admob_android_ads_AdView
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_backgroundColor
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_keywords
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_primaryTextColor
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_refreshInterval
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_secondaryTextColor
+org.void1898.www.agilebuddy.R$styleable: int com_admob_android_ads_AdView_testing
+org.void1898.www.agilebuddy.ScoreUpgrateService
+org.void1898.www.agilebuddy.ScoreUpgrateService: ScoreUpgrateService()
+org.void1898.www.agilebuddy.Splash
+org.void1898.www.agilebuddy.Splash: Splash()
+org.void1898.www.agilebuddy.Splash: void onClick(android.view.View)
+org.void1898.www.agilebuddy.TipsActivity
+org.void1898.www.agilebuddy.TipsActivity: TipsActivity()
+org.void1898.www.agilebuddy.TipsActivity: void onClick(android.view.View)

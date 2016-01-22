@@ -1,0 +1,105 @@
+com.admob.android.ads.AdManager:
+    public static final java.lang.String SDK_VERSION_DATE
+    public static final java.lang.String SDK_VERSION
+    public static final java.lang.String LOG
+    public static final java.lang.String TEST_EMULATOR
+    157:159:private AdManager()
+    389:399:public static void setTestDevices(java.lang.String[])
+    406:406:static java.lang.String[] getTestDevices()
+    455:456:public static void setTestAction(java.lang.String)
+    765:766:public static void setPostalCode(java.lang.String)
+    808:809:public static void setBirthday(java.util.GregorianCalendar)
+    820:823:public static void setBirthday(int,int,int)
+    832:832:public static com.admob.android.ads.AdManager$Gender getGender()
+    864:865:public static void setGender(com.admob.android.ads.AdManager$Gender)
+    874:875:static void setEndpoint(java.lang.String)
+    883:883:static java.lang.String getEndpoint()
+com.admob.android.ads.AdView:
+    566:597:public void requestFreshAd()
+    1308:1309:public boolean isGoneWithoutAd()
+    1430:1430:public boolean hasAd()
+com.admob.android.ads.SimpleAdListener
+com.admob.android.ads.e:
+    9:9:public e()
+com.admob.android.ads.t:
+    13:13:t()
+com.admob.android.ads.u:
+    28:28:u()
+    380:391:static void a(java.lang.String)
+    398:398:static java.lang.String a()
+org.stringtree.json.JSONValidatingWriter
+org.stringtree.json.JSONWriter
+org.void1898.www.agilebuddy.AgileBuddyView:
+    private static final java.lang.String HANDLE_MESSAGE_GAME_SCORE
+org.void1898.www.agilebuddy.BuildConfig
+org.void1898.www.agilebuddy.R
+org.void1898.www.agilebuddy.R$attr
+org.void1898.www.agilebuddy.R$drawable
+org.void1898.www.agilebuddy.R$id
+org.void1898.www.agilebuddy.R$layout
+org.void1898.www.agilebuddy.R$raw
+org.void1898.www.agilebuddy.R$string
+org.void1898.www.agilebuddy.R$styleable
+org.void1898.www.agilebuddy.ScoreUpgrateService$ScoreUpgrateServiceBinder:
+    130:130:public org.void1898.www.agilebuddy.ScoreUpgrateService getService()
+org.void1898.www.agilebuddy.material.UIModel:
+    public static final int GAME_ATTRIBUTE_FRAME_DELAY
+    public static final int GAME_ATTRIBUTE_PIXEL_DENSITY_Y
+    public static final int GAME_ATTRIBUTE_LEVEL_UP_FACTOR
+    public static final int GAME_ATTRIBUTE_GRAVITY_VELOCITY
+    public static final int GAME_STATUS_PAUSE
+    public static final int GAME_STATUS_RUNNING
+    public static final int GAME_STATUS_GAMEOVER
+    public static final int EFFECT_FLAG_NO_EFFECT
+    public static final int EFFECT_FLAG_NORMAL
+    public static final int EFFECT_FLAG_UNSTABLE
+    public static final int EFFECT_FLAG_SPRING
+    public static final int EFFECT_FLAG_SPIKED
+    public static final int EFFECT_FLAG_MOVING
+    public static final int EFFECT_FLAG_TOOLS
+    public static final int ROLE_ATTRIBUTE_WIDTH
+    public static final int ROLE_ATTRIBUTE_HEITH
+    public static final int ROLE_ATTRIBUTE_FRAME_DELAY
+    public static final int ROLE_ATTRIBUTE_HP_MAX
+    public static final int ROLE_STATUS_ON_FOOTBOARD
+    public static final int ROLE_STATUS_ON_FOOTBOARD_LEFT
+    public static final int ROLE_STATUS_ON_FOOTBOARD_RIGHT
+    public static final int ROLE_STATUS_FREEFALL
+    public static final int ROLE_STATUS_FREEFALL_LEFT
+    public static final int ROLE_STATUS_FREEFALL_RIGHT
+    public static final int ROLE_SHARP_STANDING
+    public static final int ROLE_SHARP_FREEFALL_NO1
+    public static final int ROLE_SHARP_FREEFALL_NO2
+    public static final int ROLE_SHARP_FREEFALL_NO3
+    public static final int ROLE_SHARP_FREEFALL_NO4
+    public static final int ROLE_SHARP_MOVE_LEFT_NO1
+    public static final int ROLE_SHARP_MOVE_LEFT_NO2
+    public static final int ROLE_SHARP_MOVE_LEFT_NO3
+    public static final int ROLE_SHARP_MOVE_LEFT_NO4
+    public static final int ROLE_SHARP_MOVE_RIGHT_NO1
+    public static final int ROLE_SHARP_MOVE_RIGHT_NO2
+    public static final int ROLE_SHARP_MOVE_RIGHT_NO3
+    public static final int ROLE_SHARP_MOVE_RIGHT_NO4
+    public static final int FOOD_ATTRIBUTE_DELAY_TIME
+    public static final int FOOD_ATTRIBUTE_IMAGE_SIZE
+    public static final int BORDER_ATTRIBUTE_IMAGE_HEITH
+    public static final int BORDER_ATTRIBUTE_IMAGE_WIDTH
+    public static final int BOARD_ATTRIBUTE_LEFT_VELOCITY
+    public static final int BOARD_ATTRIBUTE_RIGHT_VELOCITY
+    public static final int BOARD_ATTRIBUTE_UNSTABLE_DELAY_FACTOR
+    public static final int FOOTBOARD_TYPE_NORMAL
+    public static final int FOOTBOARD_TYPE_UNSTABLE
+    public static final int FOOTBOARD_TYPE_SPRING
+    public static final int FOOTBOARD_TYPE_SPIKED
+    public static final int FOOTBOARD_TYPE_MOVING_LEFT
+    public static final int FOOTBOARD_TYPE_MOVING_RIGHT
+    public static final int FOOD_NONE
+    public static final int FOOD_8
+    public static final int FOOD_7
+    public static final int FOOD_6
+    public static final int FOOD_5
+    public static final int FOOD_4
+    public static final int FOOD_3
+    public static final int FOOD_2
+    public static final int FOOD_1
+org.void1898.www.agilebuddy.util.ConstantInfo

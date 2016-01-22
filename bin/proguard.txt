@@ -1,0 +1,26 @@
+# view res/layout/options.xml #generated:61
+# view res/layout/ranking.xml #generated:16
+# view res/layout/tips.xml #generated:48
+-keep class com.admob.android.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class org.void1898.www.agilebuddy.AgileBuddyActivity { <init>(...); }
+
+# view res/layout/main.xml #generated:6
+-keep class org.void1898.www.agilebuddy.AgileBuddyView { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class org.void1898.www.agilebuddy.GlobalRankingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class org.void1898.www.agilebuddy.Prefs { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class org.void1898.www.agilebuddy.ScoreUpgrateService { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class org.void1898.www.agilebuddy.Splash { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class org.void1898.www.agilebuddy.TipsActivity { <init>(...); }
+
